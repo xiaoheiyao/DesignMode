@@ -1,5 +1,8 @@
 package com.lqz.principle.segregation;
 
+/**
+ * 接口隔离原则1
+ */
 public class Segregation1 {
     public static void main(String[] args) {
 

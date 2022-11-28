@@ -1,5 +1,8 @@
 package com.lqz.principle.singleresponsibility;
 
+/**
+ * 单一职责3
+ */
 public class SingleResponsiblity3 {
 
 //    Vehicle vehicle = new Vehicle();

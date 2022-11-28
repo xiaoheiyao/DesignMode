@@ -1,5 +1,8 @@
 package com.lqz.principle.singleresponsibility;
 
+/**
+ * 单一职责2
+ */
 public class SingleResponsibility2 {
     public static void main(String[] args) {
         RoadVehicle roadVehicle = new RoadVehicle();

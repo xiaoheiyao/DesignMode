@@ -1,6 +1,9 @@
 package com.lqz.principle.inversion;
 
-public class DependecyInversion {
+/**
+ * 依赖反转原则（依赖倒置）
+ */
+public class DependencyInversion {
     public static void main(String[] args) {
         Person person = new Person();
         person.receive(new Email());

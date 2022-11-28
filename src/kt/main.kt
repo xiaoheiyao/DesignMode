@@ -7,9 +7,9 @@ fun main(){
 //    print("dafadsfadf")
     val list:MutableList<String> = ArrayList()
 
-    list.add("1")
-    list.add("2")
-    list.add("3")
+//    list.add("1")
+//    list.add("2")
+//    list.add("3")
 
     val listTemp:MutableList<String> = ArrayList()
     listTemp.add("0")

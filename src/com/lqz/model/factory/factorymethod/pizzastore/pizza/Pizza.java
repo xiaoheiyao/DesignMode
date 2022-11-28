@@ -1,4 +1,4 @@
-package com.lqz.model.factory.simplefactory.pizzastore.pizza;
+package com.lqz.model.factory.factorymethod.pizzastore.pizza;
 
 /**
  * 将pizza 做成抽象类

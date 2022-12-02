@@ -1,9 +1,9 @@
-package com.lqz.model.factory.factorymethod.pizzastore.pizza.order;
+package com.lqz.model.factory.factorymethod.pizzastore.order;
 
 import com.lqz.model.factory.factorymethod.pizzastore.pizza.BJCheesePizza;
+import com.lqz.model.factory.factorymethod.pizzastore.pizza.Pizza;
 import com.lqz.model.factory.factorymethod.pizzastore.pizza.BJGreekPizza;
 import com.lqz.model.factory.factorymethod.pizzastore.pizza.BJPepperPizza;
-import com.lqz.model.factory.factorymethod.pizzastore.pizza.Pizza;
 
 public class BJOrderPizzaFactory extends OrderPizzaFactory {
     @Override

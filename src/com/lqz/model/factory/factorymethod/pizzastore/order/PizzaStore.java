@@ -1,4 +1,4 @@
-package com.lqz.model.factory.factorymethod.pizzastore.pizza.order;
+package com.lqz.model.factory.factorymethod.pizzastore.order;
 
 import com.lqz.utils.StringUtil;
 
